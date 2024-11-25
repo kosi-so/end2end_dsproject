@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Documents/Kosi/projects/mlops/end2end_dsproject/mlruns/0/802e08a603304c5a841ca0339e094885/artifacts
+end_time: 1732512927942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 802e08a603304c5a841ca0339e094885
+run_name: traveling-seal-419
+run_uuid: 802e08a603304c5a841ca0339e094885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732512922528
+status: 3
+tags: []
+user_id: User
